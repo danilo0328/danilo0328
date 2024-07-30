@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danilo0328
 - 👀 I am interested in learning python
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on in python project
 - 📫 How to reach my email is aldemardavila2014@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
